@@ -1,4 +1,4 @@
-# HELLO, WORLD!
+# HELLO, WORLD! 👋🗺️
 
 This week you'll learn to control various kinds LEDs with code. But first, let's get your Feather connected to the Mu Editor and go over some basics of [Python](https://www.python.org/), the langauge we'll be using to program our board. Python is a fantastic, flexible, and friendly language and is one of my faves.
 
