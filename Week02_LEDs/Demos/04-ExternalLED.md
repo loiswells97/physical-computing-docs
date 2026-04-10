@@ -1,4 +1,4 @@
-# EXTERNAL LED
+# EXTERNAL LED 💡
 
 The built-in LEDs on your Feather board are great for quick prototyping, but we can also hook up an external LED. (In the next example, we'll see how to hook up multiple LEDs!)
 
